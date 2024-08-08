@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    int n = 4;
+    int n;
+    cin >> n;
     int k = (2 * n) - 1;
 
     for (ssize_t i = 1; i <= k; i++)
