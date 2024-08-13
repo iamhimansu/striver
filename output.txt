@@ -1,1 +1,1 @@
-true
+There are total (3) digits.
