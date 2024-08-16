@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// time complexity: O(n)
+// space complexity: O(n)
 void one2N(int n, int count = 0){
     if(count == n){
         return;
