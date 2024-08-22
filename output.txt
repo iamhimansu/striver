@@ -1,7 +1,1 @@
-0 -> 1
-1 -> 1
-2 -> 4
-4 -> 3
-5 -> 2
-6 -> 1
-9 -> 1
+Maximum frequency is of the number: 2
